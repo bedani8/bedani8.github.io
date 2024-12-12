@@ -14,7 +14,7 @@ My GitHub page is http://github.com/bedani8.
 
 * Lab 6
 
-    FFor lab 6, our task was to make a Madlib. This lab was very informational and helped me learn the concepts of index numbers and input validation. When users wouldn't provide enough arguments, we learned how to output an error statement that corrected the user and told them how many arguments to supply. 
+    FFor lab 6, our task was to make a Madlib. This lab was very informational and helped me learn the concepts of index numbers and input validation. When users wouldn't provide enough arguments, we learned how to output an error statement that corrected the user and told them how many arguments to supply. I liked that we created a game and it was fun to test after. 
 
 * Lab 9
 
